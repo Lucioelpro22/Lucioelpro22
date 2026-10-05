@@ -46,6 +46,13 @@ My projects are intentionally defensive. They do not enable unauthorized access,
 4. Document operational use, limitations, and failure modes.
 5. Release incrementally and keep consequential actions human-approved.
 
+## Public roadmap
+
+- Keep CI, dependency auditing, CodeQL, and supply-chain checks green across the portfolio.
+- Publish focused threat models and operational limitations for each project.
+- Improve reproducible releases, SBOM evidence, and responsible disclosure guidance.
+- Add interoperable examples without weakening privacy, human review, or fail-closed controls.
+
 ## Collaboration
 
 I am interested in practical collaboration around defensive security, secure AI, privacy engineering, and child-safety technology. Useful contributions include threat-model feedback, reproducible bug reports, test improvements, documentation, and responsible security disclosures.
