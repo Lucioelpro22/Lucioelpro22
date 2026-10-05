@@ -21,12 +21,12 @@ The common thread across my projects is simple: make the safe path explicit, obs
 
 | Project | What it demonstrates |
 | --- | --- |
-| [fastapi-security-baseline](https://github.com/Lucioelpro22/fastapi-security-baseline) | Production-oriented FastAPI security baseline with authentication, MFA, rate limiting, secrets management, audit events, and operational controls. |
 | [anti-grooming-alert-system-](https://github.com/Lucioelpro22/anti-grooming-alert-system-) | Child-safety alerting platform with security hardening, authentication controls, auditability, and a responsible human-review boundary. |
 | [child-safety-risk-engine](https://github.com/Lucioelpro22/child-safety-risk-engine) | Modular, explainable risk evaluation for child-safety workflows, designed around privacy, policy boundaries, and human review. |
-| [github-security-agent](https://github.com/Lucioelpro22/github-security-agent) | Read-only analysis and planning for GitHub security posture, including Actions, Dependabot, CodeQL, and repository controls. |
-| [secret-sentinel](https://github.com/Lucioelpro22/secret-sentinel) | Offline, read-only secret and insecure-configuration detection with safe redaction and non-reversible fingerprints. |
 | [secure-ai-agent-framework](https://github.com/Lucioelpro22/secure-ai-agent-framework) | A deny-by-default agent foundation with scoped tools, expiring human approvals, replay protection, redacted audit logs, and fail-closed behavior. |
+| [secret-sentinel](https://github.com/Lucioelpro22/secret-sentinel) | Offline, read-only secret and insecure-configuration detection with safe redaction and non-reversible fingerprints. |
+| [github-security-agent](https://github.com/Lucioelpro22/github-security-agent) | Read-only analysis and planning for GitHub security posture, including Actions, Dependabot, CodeQL, and repository controls. |
+| [fastapi-security-baseline](https://github.com/Lucioelpro22/fastapi-security-baseline) | Production-oriented FastAPI security baseline with authentication, MFA, rate limiting, secrets management, audit events, and operational controls. |
 
 ## Engineering principles
 
