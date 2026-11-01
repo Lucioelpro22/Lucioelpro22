@@ -7,7 +7,7 @@ I build practical software with a strong focus on security, privacy, auditabilit
 The principle behind the work is consistent: make important behavior explicit, observable, testable, and difficult to misuse.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Lucioelpro22-181717?logo=github)](https://github.com/Lucioelpro22)
-[![Portfolio](https://img.shields.io/badge/Public_projects-17-0A7B83)](https://github.com/Lucioelpro22?tab=repositories)
+[![Portfolio](https://img.shields.io/badge/Public_projects-18-0A7B83)](https://github.com/Lucioelpro22?tab=repositories)
 [![Python](https://img.shields.io/badge/Python-3.11%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![Open Source](https://img.shields.io/badge/Open_source-MIT-2EA44F)](https://github.com/Lucioelpro22?tab=repositories)
 
@@ -23,6 +23,7 @@ The principle behind the work is consistent: make important behavior explicit, o
 
 | Project | Purpose |
 | --- | --- |
+| [Trading Bot Safety Guard](https://github.com/Lucioelpro22/trading-bot-safety-guard) | GitHub Action that audits bot repositories for exposed secrets, unsafe live endpoints, and excessive configured leverage before deployment. |
 | [Trading System — PaperBot](https://github.com/Lucioelpro22/trading-system-paperbot) | Guarded Binance Futures Testnet paper-trading system with conservative risk controls and a documented demo-only execution path. |
 | [QuantumBot Pro](https://github.com/Lucioelpro22/quantumbot) | Open-source systematic crypto research framework with Bybit Demo execution, backtesting, stress testing, risk controls, and explainability. |
 | [Chart Replay Lab](https://github.com/Lucioelpro22/chart-replay-lab) | Candle-by-candle market-reading trainer with decision scoring, risk planning, and a persistent practice journal. |
