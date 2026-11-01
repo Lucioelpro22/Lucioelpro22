@@ -7,7 +7,7 @@ I build practical software with a strong focus on security, privacy, auditabilit
 The principle behind the work is consistent: make important behavior explicit, observable, testable, and difficult to misuse.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Lucioelpro22-181717?logo=github)](https://github.com/Lucioelpro22)
-[![Portfolio](https://img.shields.io/badge/Public_projects-15-0A7B83)](https://github.com/Lucioelpro22?tab=repositories)
+[![Portfolio](https://img.shields.io/badge/Public_projects-17-0A7B83)](https://github.com/Lucioelpro22?tab=repositories)
 [![Python](https://img.shields.io/badge/Python-3.11%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![Open Source](https://img.shields.io/badge/Open_source-MIT-2EA44F)](https://github.com/Lucioelpro22?tab=repositories)
 
@@ -23,6 +23,8 @@ The principle behind the work is consistent: make important behavior explicit, o
 
 | Project | Purpose |
 | --- | --- |
+| [Trading System — PaperBot](https://github.com/Lucioelpro22/trading-system-paperbot) | Guarded Binance Futures Testnet paper-trading system with conservative risk controls and a documented demo-only execution path. |
+| [QuantumBot Pro](https://github.com/Lucioelpro22/quantumbot) | Open-source systematic crypto research framework with Bybit Demo execution, backtesting, stress testing, risk controls, and explainability. |
 | [Chart Replay Lab](https://github.com/Lucioelpro22/chart-replay-lab) | Candle-by-candle market-reading trainer with decision scoring, risk planning, and a persistent practice journal. |
 | [Decision Log](https://github.com/Lucioelpro22/decision-log) | Lightweight technical-decision record with alternatives, impact, owners, review dates, search, and portable exports. |
 | [Strategy Backtest Studio](https://github.com/Lucioelpro22/strategy-backtest-studio) | Visual strategy builder with browser-based backtesting and Python export compatible with Backtrader. |
@@ -57,11 +59,13 @@ The principle behind the work is consistent: make important behavior explicit, o
 
 | Project | What it does |
 | --- | --- |
+| [Trading System — PaperBot](https://github.com/Lucioelpro22/trading-system-paperbot) | Runs guarded paper-trading experiments against Binance Futures Testnet with dry-run defaults and bounded exposure. |
+| [QuantumBot Pro](https://github.com/Lucioelpro22/quantumbot) | Researches systematic strategies through Bybit Demo, backtests, walk-forward analysis, Monte Carlo, and explicit evidence gates. |
 | [Market Structure Lab](https://github.com/Lucioelpro22/market-structure-lab) | Visual journal for BOS, CHOCH, liquidity, supply/demand, risk plans, and post-trade review. |
 | [Chart Replay Lab](https://github.com/Lucioelpro22/chart-replay-lab) | Structured replay practice with confidence tracking, process scoring, and automatic follow-up evaluation. |
 | [Strategy Backtest Studio](https://github.com/Lucioelpro22/strategy-backtest-studio) | Builds, validates, and tests rule-based strategies locally, then exports reproducible Backtrader code. |
 
-> These market projects are educational research tools. They do not provide financial advice or execute trades.
+> These market projects are educational research tools. They do not provide financial advice. PaperBot and QuantumBot can submit orders only to explicitly configured exchange demo/testnet environments; their public releases are not authorized for live trading.
 
 ## Engineering principles
 
