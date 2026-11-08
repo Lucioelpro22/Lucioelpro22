@@ -9,7 +9,7 @@ The principle behind the work is consistent: make important behavior explicit, o
 [![GitHub](https://img.shields.io/badge/GitHub-Lucioelpro22-181717?logo=github)](https://github.com/Lucioelpro22)
 [![SafetyGuard Labs](https://img.shields.io/badge/Organization-SafetyGuard_Labs-42D9DC?logo=github&logoColor=black)](https://github.com/safetyguard-labs)
 [![GitHub App](https://img.shields.io/badge/GitHub_App-Install-2EA44F?logo=github)](https://github.com/apps/trading-bot-safety-guard-pro)
-[![Marketplace](https://img.shields.io/badge/Marketplace-Under_review-8957E5?logo=github)](https://github.com/marketplace/trading-bot-safety-guard-pro)
+[![Automated Checks](https://img.shields.io/badge/GitHub_Checks-Live-42D9DC?logo=github)](https://github.com/safetyguard-labs/trading-bot-safety-guard-pro)
 [![Python](https://img.shields.io/badge/Python-3.11%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![Open Source](https://img.shields.io/badge/Open_source-MIT-2EA44F)](https://github.com/Lucioelpro22?tab=repositories)
 
@@ -25,7 +25,7 @@ The principle behind the work is consistent: make important behavior explicit, o
 
 | Project | Purpose |
 | --- | --- |
-| [Trading Bot Safety Guard Pro](https://github.com/safetyguard-labs/trading-bot-safety-guard-pro) | GitHub App and hosted defensive analyzer for Binance and Bybit repositories, with signed webhooks, secret detection, live-mode controls, leverage checks, and a free Marketplace plan. |
+| [Trading Bot Safety Guard Pro](https://github.com/safetyguard-labs/trading-bot-safety-guard-pro) | Live GitHub App and hosted defensive analyzer for Binance and Bybit repositories, with signed webhooks, automated Checks, secret detection, live-mode controls, leverage checks, and a free installation. |
 | [Trading Bot Safety Guard](https://github.com/Lucioelpro22/trading-bot-safety-guard) | GitHub Action that audits bot repositories for exposed secrets, unsafe live endpoints, and excessive configured leverage before deployment. |
 | [Trading System — PaperBot](https://github.com/Lucioelpro22/trading-system-paperbot) | Guarded Binance Futures Testnet paper-trading system with conservative risk controls and a documented demo-only execution path. |
 | [QuantumBot Pro](https://github.com/Lucioelpro22/quantumbot) | Open-source systematic crypto research framework with Bybit Demo execution, backtesting, stress testing, risk controls, and explainability. |
